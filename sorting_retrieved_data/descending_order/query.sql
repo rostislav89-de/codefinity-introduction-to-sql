@@ -1,3 +1,3 @@
 select name, continent, region, population, capital
 from country
-order by continent, population DESC;
+order by continent DESC, population ASC;
