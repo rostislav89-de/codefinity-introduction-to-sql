@@ -1,3 +1,3 @@
 select continent
 from country
-limit 7;
+limit 3;
