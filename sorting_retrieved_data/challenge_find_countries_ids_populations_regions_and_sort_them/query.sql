@@ -1,3 +1,3 @@
-select id, name, population
+select id, name, population, region
 from country
 order by region DESC, population ASC;
